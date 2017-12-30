@@ -1,0 +1,24 @@
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS Tool.vbproj.ResolveComReference.cache
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\MIS Tool.exe.manifest
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\MIS Tool.application
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\MIS Tool.exe
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\MIS Tool.pdb
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\MIS Tool.xml
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS_Tool.Resources.resources
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS Tool.vbproj.GenerateResource.Cache
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS Tool.exe.manifest
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS Tool.application
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS Tool.exe
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS Tool.xml
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS Tool.pdb
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Debug\MIS_Tool.MISTool.resources
+D:\NMGB Migration\20141031 eNMGB Migration - Mock Setup\MIS Tool\MIS Tool\obj\Debug\MIS Tool.vbproj.ResolveComReference.cache
+D:\NMGB Migration\20141031 eNMGB Migration - Mock Setup\MIS Tool\MIS Tool\obj\Debug\MIS Tool.exe
+D:\NMGB Migration\20141031 eNMGB Migration - Mock Setup\MIS Tool\MIS Tool\obj\Debug\MIS Tool.xml
+D:\NMGB Migration\20141031 eNMGB Migration - Mock Setup\MIS Tool\MIS Tool\obj\Debug\MIS Tool.pdb
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\office.dll
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Debug\Microsoft.Office.Interop.Outlook.xml

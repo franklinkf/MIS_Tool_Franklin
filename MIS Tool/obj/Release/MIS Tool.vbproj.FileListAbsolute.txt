@@ -1,0 +1,72 @@
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.exe.manifest
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.application
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.exe
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.pdb
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.xml
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\ResolveAssemblyReference.cache
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.vbproj.ResolveComReference.cache
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS_Tool.Resources.resources
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.vbproj.GenerateResource.Cache
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.exe.manifest
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.application
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.exe
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.xml
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.pdb
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS_Tool.MISTool.resources
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\Microsoft.Office.Interop.Outlook.dll
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\office.dll
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\Microsoft.Vbe.Interop.dll
+D:\CBS\Visual Basic\MIS Tool\MIS Tool\bin\Release\Microsoft.Office.Interop.Outlook.xml
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS Tool.vbproj.ResolveComReference.cache
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS Tool.exe
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS Tool.xml
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS Tool.pdb
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS Tool.vbprojResolveAssemblyReference.cache
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS_Tool.MISTool.resources
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS_Tool.Resources.resources
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS Tool.vbproj.GenerateResource.Cache
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\bin\Release\MIS Tool.exe.manifest
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\bin\Release\MIS Tool.application
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\bin\Release\MIS Tool.exe
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\bin\Release\MIS Tool.pdb
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\bin\Release\MIS Tool.xml
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS Tool.exe.manifest
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\obj\Release\MIS Tool.application
+E:\Desktop\2\Dhanya - Email Setups\MIS Tool\MIS Tool\bin\Release\Oracle.DataAccess.dll
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.vbproj.ResolveComReference.cache
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.exe
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.xml
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.pdb
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.exe.manifest
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.application
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.exe
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.pdb
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\bin\Release\MIS Tool.xml
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\bin\Release\Oracle.DataAccess.dll
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.vbprojResolveAssemblyReference.cache
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS_Tool.MISTool.resources
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS_Tool.Resources.resources
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.vbproj.GenerateResource.Cache
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.exe.manifest
+E:\cbs\Visual Basic\MIS Tool\MIS Tool\obj\Release\MIS Tool.application
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS Tool.vbproj.ResolveComReference.cache
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS Tool.exe
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS Tool.xml
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS Tool.pdb
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\bin\Release\MIS Tool.exe.manifest
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\bin\Release\MIS Tool.application
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\bin\Release\MIS Tool.exe
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\bin\Release\MIS Tool.pdb
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\bin\Release\MIS Tool.xml
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\bin\Release\Oracle.DataAccess.dll
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS Tool.vbprojResolveAssemblyReference.cache
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS_Tool.MISTool.resources
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS_Tool.Resources.resources
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS Tool.vbproj.GenerateResource.Cache
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS Tool.exe.manifest
+E:\cbs\Source Code\Visual Basic\20 Session\MIS Tool\obj\Release\MIS Tool.application
+E:\cbs\Source Code\Visual Basic\MIS Tool - Franklin\MIS Tool\obj\Release\MIS Tool.vbproj.ResolveComReference.cache
+E:\cbs\Source Code\Visual Basic\MIS Tool - Franklin\MIS Tool\obj\Release\MIS Tool.exe
+E:\cbs\Source Code\Visual Basic\MIS Tool - Franklin\MIS Tool\obj\Release\MIS Tool.xml
+E:\cbs\Source Code\Visual Basic\MIS Tool - Franklin\MIS Tool\obj\Release\MIS Tool.pdb
