@@ -70,3 +70,11 @@ E:\cbs\Source Code\Visual Basic\MIS Tool - Franklin\MIS Tool\obj\Release\MIS Too
 E:\cbs\Source Code\Visual Basic\MIS Tool - Franklin\MIS Tool\obj\Release\MIS Tool.exe
 E:\cbs\Source Code\Visual Basic\MIS Tool - Franklin\MIS Tool\obj\Release\MIS Tool.xml
 E:\cbs\Source Code\Visual Basic\MIS Tool - Franklin\MIS Tool\obj\Release\MIS Tool.pdb
+D:\Modules\MIS_Tool_Franklin\MIS Tool\obj\Release\MIS Tool.vbproj.ResolveComReference.cache
+D:\Modules\MIS_Tool_Franklin\MIS Tool\obj\Release\MIS Tool.exe
+D:\Modules\MIS_Tool_Franklin\MIS Tool\obj\Release\MIS Tool.xml
+D:\Modules\MIS_Tool_Franklin\MIS Tool\obj\Release\MIS Tool.pdb
+D:\Modules\MIS_Tool_Franklin\MIS Tool\obj\Release\MIS Tool.vbprojResolveAssemblyReference.cache
+D:\Modules\MIS_Tool_Franklin\MIS Tool\obj\Release\MIS_Tool.MISTool.resources
+D:\Modules\MIS_Tool_Franklin\MIS Tool\obj\Release\MIS_Tool.Resources.resources
+D:\Modules\MIS_Tool_Franklin\MIS Tool\obj\Release\MIS Tool.vbproj.GenerateResource.Cache
